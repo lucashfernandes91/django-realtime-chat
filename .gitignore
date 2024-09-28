@@ -1,0 +1,4 @@
+room/migrations*
+venv*
+db.sqlite3
+.idea*
